@@ -1,7 +1,5 @@
 # Virtual Pet
 
-![Virtual Pet]
-
 Welcome to the Virtual Pet game! Take care of your virtual pet by feeding, playing, sleeping, bathing, and going on exciting adventures together.
 
 ## Features
